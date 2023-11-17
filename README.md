@@ -1,6 +1,6 @@
 # Welcome to DigiCopt 🚀
 
-![DigiCopt Logo](link/to/your/logo.png)
+![DigiCopt Logo]([link/to/your/logo.png](https://avatars.githubusercontent.com/u/151103445?s=400&u=e8c97179904c93fc055034f2c2cae540bf21a7af&v=4))
 
 DigiCopt is a pioneering hub for innovation, technology, and collaborative development. We strive to revolutionize the future of digital solutions through cutting-edge advancements in aerial technology, drones, and robotics.
 
