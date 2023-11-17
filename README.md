@@ -1,6 +1,6 @@
 # Welcome to DigiCopt 🚀
 
-![DigiCopt Logo]([link/to/your/logo.png](https://avatars.githubusercontent.com/u/151103445?s=400&u=e8c97179904c93fc055034f2c2cae540bf21a7af&v=4))
+![DigiCopt Logo](https://avatars.githubusercontent.com/u/151103445?s=400&u=e8c97179904c93fc055034f2c2cae540bf21a7af&v=4)
 
 DigiCopt is a pioneering hub for innovation, technology, and collaborative development. We strive to revolutionize the future of digital solutions through cutting-edge advancements in aerial technology, drones, and robotics.
 
@@ -14,13 +14,13 @@ Our mission is to empower communities and industries through the seamless integr
 
 ## Projects
 
-### Project Name 1
+### RemConnect
 - Description: Brief overview of the project.
 - Status: Ongoing/Completed
 - Technologies Used: List of technologies used in the project.
-- [Link to Project](link/to/project)
+- [Link to Project](https://github.com/digicopt/remconnect)
 
-### Project Name 2
+### VisiBuddy
 - Description: Brief overview of the project.
 - Status: Ongoing/Completed
 - Technologies Used: List of technologies used in the project.
